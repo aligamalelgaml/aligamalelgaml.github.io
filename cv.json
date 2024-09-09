@@ -33,6 +33,7 @@
       "name": "ITWorx",
       "position": "Software Engineer",
       "location": "Cairo, Egypt",
+      "location_type": "Hybrid",
       "url": "https://www.itworx.com/",
       "startDate": "2023-04-09",
       "endDate": null,
@@ -64,6 +65,7 @@
       "name": "ITVikings",
       "position": "Cybersecurity Engineer",
       "location": "Cairo, Egypt",
+      "location_type": "On Site",
       "url": "https://itvikings.com/",
       "startDate": "2022-07-01",
       "endDate": "2022-12-31",
@@ -200,7 +202,8 @@
         "Collaborated closely with a research team on comprehensive data preprocessing, model training, and validation processes, culminating in the successful publication of our research findings in IEEE.",
         "The optimized model demonstrated promising potential for clinical application, contributing to advancements in automated medical imaging analysis."
       ],
-      "url": "https://ieeexplore.ieee.org/document/9600556"
+      "url": "https://ieeexplore.ieee.org/document/9600556",
+      "github": null
     }
   ]
 }
