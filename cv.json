@@ -1,0 +1,206 @@
+{
+  "basics": {
+    "name": "Ali ElGaml",
+    "label": "Software Engineer @ ITWorx",
+    "image": "/ali_gamal.jpg",
+    "email": "ali.gamal.elgaml@gmail.com",
+    "phone": "+20 100 3685 771",
+    "url": "https://johndoe.dev",
+    "summary": "Junior Full Stack Developer with a passion for building web applications.",
+    "theme": "blue",
+    "location": {
+      "address": "",
+      "postalCode": "10001",
+      "city": "Cairo",
+      "countryCode": "EG",
+      "region": "Egypt"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "aligamalelgaml",
+        "url": "https://linkedin.com/in/aligamalelgaml"
+      },
+      {
+        "network": "GitHub",
+        "username": "aligamalelgaml",
+        "url": "https://github.com/aligamalelgaml"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "ITWorx",
+      "position": "Software Engineer",
+      "location": "Cairo, Egypt",
+      "url": "https://www.itworx.com/",
+      "startDate": "2023-04-09",
+      "endDate": null,
+      "summary": "Refactoring a legacy monolithic application into a microservices-based architecture, enhancing scalability and maintainability. Focusing on backend development with Java 11/17, Spring Framework, and PostgreSQL, while also overseeing cloud deployments on AWS. Ensuring system reliability through optimized performance, efficient deployments, and real-time monitoring. Modernizing the user interface by integrating React.js components for a seamless front-end experience.",
+      "highlights": ["Improved website performance by optimizing code"],
+      "responsibilities": [
+        "Implementing a microservices-based system to replace a legacy monolithic application, addressing scalability and maintainability challenges.",
+        "Designing and coding backend services using Java 11/17, Spring Framework, and PostgreSQL, ensuring high performance and efficiency in database operations.",
+        "Deploying microservices to AWS Cloud, employing blue/green deployment strategies to achieve zero downtime during updates.",
+        "Continuously monitoring application performance and logs using Amazon CloudWatch to identify and resolve issues proactively.",
+        "Modernizing the front-end by refactoring the UI with React.js, focusing on creating reusable components and enhancing the user experience through seamless backend integration."
+      ],
+      "achievements": [
+        "Successfully improved system scalability and maintainability.",
+        "Modernized an outdated UI by refactoring it with React.js, resulting in a more efficient and maintainable codebase."
+      ],
+      "skills": [
+        "Java",
+        "Spring",
+        "Typescript",
+        "React",
+        "MIUI",
+        "Git",
+        "AWS",
+        "PostgreSQL"
+      ]
+    },
+    {
+      "name": "ITVikings",
+      "position": "Cybersecurity Engineer",
+      "location": "Cairo, Egypt",
+      "url": "https://itvikings.com/",
+      "startDate": "2022-07-01",
+      "endDate": "2022-12-31",
+      "summary": "Assisting in the development and maintenance of software applications using Python and Django. Collaborating with cross-functional teams to ensure quality and timely delivery of security software solutions.",
+      "highlights": [
+        "Contributed to a major project that streamlined internal workflows, improving efficiency by 30%"
+      ],
+      "responsibilities": [
+        "Monitored security logs and alerts to identify potential vulnerabilities and worked closely with senior engineers to implement mitigation strategies.",
+        "Supported penetration testing by identifying weak points and contributing to security patches and incident response plans in order to improve response time and minimize damage during security breaches.",
+        "Delivered security awareness training to employees, covering essential topics like phishing and data protection, contributing to an overall reduction in security risks."
+      ],
+      "skills": ["Cybersecurity", "Python", "Network Security"]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Faculty of Engineering, Cairo University",
+      "url": "https://eng.cu.edu.eg/en/",
+      "area": "Computer Systems & Biomedical Engineering",
+      "studyType": "Bachelor",
+      "startDate": "2016-07-01",
+      "endDate": "2021-07-01",
+      "score": "Very Good with Honors"
+    }
+  ],
+  "certificates": [],
+  "skills": [
+    {
+      "name": "Java",
+      "level": "Intermediate"
+    },
+    {
+      "name": "Spring",
+      "level": "Intermediate"
+    },
+    {
+      "name": "Figma",
+      "level": "Expert",
+      "keywords": ["Design", "UI"]
+    },
+    {
+      "name": "Gitlab",
+      "level": "Intermediate",
+      "keywords": ["Version Control", "Collaboration", "Source Code"]
+    },
+    {
+      "name": "JavaScript",
+      "level": "Intermediate",
+      "keywords": ["Web Development", "Frontend", "Backend", "Fullstack"]
+    },
+    {
+      "name": "Tailwind",
+      "level": "Intermediate",
+      "keywords": [
+        "Web Development",
+        "Frontend",
+        "CSS Framework",
+        "Responsive Design"
+      ]
+    },
+    {
+      "name": "TypeScript",
+      "level": "Intermediate",
+      "keywords": [
+        "Web Development",
+        "Frontend",
+        "Backend",
+        "JavaScript Superset"
+      ]
+    },
+    {
+      "name": "Python",
+      "level": "Intermediate",
+      "keywords": ["Patching", "Scripting"]
+    },
+    {
+      "name": "PostgreSQL",
+      "level": "Intermediate",
+      "keywords": ["Databases", "SQL", "Data Storage", "Backend"]
+    },
+    {
+      "name": "Git",
+      "level": "Intermediate",
+      "keywords": ["Version Control", "Collaboration", "Source Code"]
+    },
+    {
+      "name": "Next.js",
+      "level": "Beginner",
+      "keywords": [
+        "Web Development",
+        "Frontend",
+        "React Framework",
+        "SSR",
+        "Static Generation"
+      ]
+    },
+    {
+      "name": "React",
+      "level": "Intermediate",
+      "keywords": ["Web Development", "Frontend", "JavaScript Library", "UI"]
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Native speaker"
+    },
+    {
+      "language": "Spanish",
+      "fluency": "Intermediate"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Technology",
+      "keywords": ["AI", "Blockchain"]
+    }
+  ],
+  "references": [
+    {
+      "name": "Jane Smith",
+      "reference": "Reference…"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Brain Tumor Segmentation using 3D U-Net with Hyperparameter Optimization",
+      "isActive": false,
+      "description": "A research paper published in IEEE for the purpose of optimzing parameters of 3D U-Nets during brain tumor segmentation.",
+      "highlights": [
+        "Optimized the hyperparameters of a 3D U-Net model to improve the accuracy of brain tumor segmentation from MRI scans, addressing the critical challenge of enhancing diagnostic precision.",
+        "Implemented and tested a range of hyperparameter configurations, resulting in notable improvements in the models' segmentation performance and overall accuracy.",
+        "Collaborated closely with a research team on comprehensive data preprocessing, model training, and validation processes, culminating in the successful publication of our research findings in IEEE.",
+        "The optimized model demonstrated promising potential for clinical application, contributing to advancements in automated medical imaging analysis."
+      ],
+      "url": "https://ieeexplore.ieee.org/document/9600556"
+    }
+  ]
+}
